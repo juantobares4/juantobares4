@@ -1,7 +1,10 @@
 ![Personal Banner](./personal.png)
 ---
 <div align="center">
-  <i>Desarrollador fanático del minimalismo.</i>
+  <b>Desarrollador fanático del minimalismo.</b>
+  <br>
+  <br>
+  <b>Programando siempre con un 🧉 de por medio.</b>
 </div>
 <br>
 <br>
@@ -37,6 +40,11 @@
   </a>
 </div>
 <br>
+
+><h4>También, podes visitar mi portfolio</h4>
+<a href="https://juancruz.dev/">
+  <img height="30" width="50" src="./portfolio-icon.svg" />
+</a>
 
 ---
 
